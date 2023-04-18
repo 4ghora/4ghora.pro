@@ -1,13 +1,12 @@
 ---
 title: ISC2 - Chapter 1 Security Principles
-slug: ISC2 - Chapter 1 Security Principles
+slug: ISC2-Chapter-1-Security-Principles
 category: Courses, ISC2
 tags: 
-  - isc
-  - certified
-  - cybersecurity
-  - course
-  - courses    # TAG names should always be lowercase
+  - Isc
+  - Certified
+  - Cybersecurity
+  - Course
 
 excerpt : (ISC)² Certified in Cybersecurity is a foundational cybersecurity certification designed to help recipients build a pathway to a rewarding career in cybersecurity. This entry-level certification will prove to employers you have the foundational knowledge, skills and abilities necessary for an entry- or junior-level cybersecurity role. It proves your willingness and ability to learn and grow on the job.
 datetime: 2022-07-13T13:08:12.000+00:00

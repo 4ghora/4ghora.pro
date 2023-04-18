@@ -12,8 +12,7 @@ tags:
     - Motivation
     - Basics
     - Focus
-
-slug: Marcus Aurelius – How To Build Self Discipline # TAG names should always be lowercase
+slug: Marcus-Aurelius–How-To-Build-Self-Discipline
 featured: true
 ---
 
