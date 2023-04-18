@@ -9,9 +9,9 @@ import useOnScreen from "hooks/useOnScreen";
 import useScrollActive from "hooks/useScrollActive";
 
 import terminalPortfolio from "public/projects/terminal-portfolio.webp";
-import haruFashion from "public/projects/haru-fashion.webp";
-import haruApi from "public/projects/haru-api.webp";
-import astroPaper from "public/projects/astro-paper.webp";
+import haruFashion from "public/projects/4ghora-Blog.webp";
+import haruApi from "public/projects/tryhackme.png";
+import astroPaper from "public/projects/HackTheBox.jpeg";
 
 const ProjectSection: React.FC = () => {
   const { theme } = useTheme();
@@ -53,11 +53,11 @@ const ProjectSection: React.FC = () => {
       <div className="others text-center mb-16">
         Other projects can be explored in{" "}
         <a
-          href="https://github.com/satnaing"
+          href="https://github.com/4ghora"
           className="font-medium underline link-outline text-marrsgreen dark:text-carrigreen whitespace-nowrap"
         >
           my github profile
-        </a>
+        </a>  
       </div>
     </section>
   );
@@ -78,30 +78,30 @@ const projects = [
     ),
     desc: "My portfolio website in terminal version developed with React and TypeScript. In this project, styled-components library is used for styling and multiple themes supported.",
     tags: ["React", "TypeScript", "Styled-Components"],
-    liveUrl: "https://terminal.satnaing.dev/",
-    codeUrl: "https://github.com/satnaing/terminal-portfolio",
+    liveUrl: "https://terminal.4ghora.pro/",
+    codeUrl: "https://github.com/4ghora/terminal.4ghora.pro",
     bgColor: "bg-[#B4BEE0]",
   },
   {
-    title: "Haru Fashion",
+    title: "4ghora Blog",
     type: "Frontend",
     image: (
       <Image
         src={haruFashion}
         sizes="100vw"
         fill
-        alt="Haru Fashion App"
+        alt="4ghora Blog App"
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "An ecommerce web application where users can browse various products, add to wishlist, add to cart, and make purchase. Available in English and Burmese languages.",
+    desc: "4ghora Blog is created mainly to store information i know i will forget. I am passionate about Information Technology and Security and sharing knowledge with the community.",
     tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
-    liveUrl: "https://haru-fashion.vercel.app/",
-    codeUrl: "https://github.com/satnaing/haru-fashion",
+    liveUrl: "https://blog.4ghora.pro/",
+    codeUrl: "https://github.com/4ghora/4ghora.github.io",
     bgColor: "bg-[#A6CECE]",
   },
   {
-    title: "Haru API",
+    title: "TryHackMe Profile",
     type: "Backend",
     image: (
       <Image
@@ -112,14 +112,14 @@ const projects = [
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "A RESTful API developed for Haru fashion ecommerce project. Include CRUD operations, authentication, authorization, forgot/reset password and full-text search.",
+    desc: "TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs. TryHackMe gives students their own personal hackable machine",
     tags: ["ExpressJS", "TypeScript", "PostgreSQL", "Prisma"],
-    liveUrl: "https://satnaing.github.io/haru-api/",
-    codeUrl: "https://github.com/satnaing/haru-api",
+    liveUrl: "https://tryhackme.com/p/GoodGuyMickey",
+    codeUrl: "https://github.com/4ghora/4ghora.github.io",
     bgColor: "bg-[#C5E4E7]",
   },
   {
-    title: "AstroPaper",
+    title: "HackTheBox",
     type: "Frontend",
     image: (
       <Image
@@ -130,10 +130,10 @@ const projects = [
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "A minimal, responsive and SEO-friendly blog theme for Astro. This theme is developed with Astro, TypeScript and React. This theme includes fuzzy-search, pagination etc.",
+    desc: "Hack The Box is a leading gamified cybersecurity upskilling, certification, and talent assessment software platform enabling individuals, businesses, government institutions",
     tags: ["Astro", "TypeScript", "React", "TailwindCSS"],
-    liveUrl: "https://astro-paper.pages.dev/",
-    codeUrl: "https://github.com/satnaing/astro-paper",
+    liveUrl: "https://app.hackthebox.com/profile/228431/",
+    codeUrl: "https://github.com/4ghora/4ghora.github.io",
     bgColor: "bg-[#9FD0E3]",
   },
 ];

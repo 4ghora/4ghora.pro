@@ -95,11 +95,11 @@ fields:
   description: Tags for the post
 - name: author
   type: select
-  default: Sat Naing
+  default: 4ghora
   config:
     required: true
     options:
-    - Sat Naing
+    -  4ghora
     source:
       type: simple
       section: 
