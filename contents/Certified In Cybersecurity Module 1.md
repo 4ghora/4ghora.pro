@@ -1,8 +1,9 @@
 ---
 title: ISC2 - Chapter 1 Security Principles
+slug: ISC2 - Chapter 1 Security Principles
 category: Courses, ISC2
 tags: 
-  - isc2
+  - isc
   - certified
   - cybersecurity
   - course
