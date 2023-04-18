@@ -7,7 +7,6 @@ tags:
    - basics
    - security
    - notes     
-   - 
 datetime: 2022-07-12T13:08:12.000+00:00
 type : article
 slug : Security Plus Chapter 1 - Introduction
