@@ -33,7 +33,7 @@ const Home: NextPage = () => {
                 Go back Home
               </LinkButton>
               <Link
-                href="/blog"
+                href="https://blog.4ghora.pro"
                 className="link flex items-center px-4 lg:text-xl hover:underline"
               >
                 Go to Blog
