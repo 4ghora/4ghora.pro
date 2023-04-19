@@ -95,7 +95,7 @@ const projects = [
       />
     ),
     desc: "4ghora Blog is created mainly to store information i know i will forget. I am passionate about Information Technology and Security and sharing knowledge with the community.",
-    tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
+    tags: ["Jekyll", "Notes", "Walkthroughs", "Writeups"],
     liveUrl: "https://blog.4ghora.pro/",
     codeUrl: "https://github.com/4ghora/4ghora.github.io",
     bgColor: "bg-[#A6CECE]",
