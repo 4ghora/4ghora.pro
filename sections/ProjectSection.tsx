@@ -113,7 +113,7 @@ const projects = [
       />
     ),
     desc: "TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs. TryHackMe gives students their own personal hackable machine",
-    tags: ["ExpressJS", "TypeScript", "PostgreSQL", "Prisma"],
+    tags: ["Web", "Challanges", "Owasp", "Academy"],
     liveUrl: "https://tryhackme.com/p/GoodGuyMickey",
     codeUrl: "https://github.com/4ghora/4ghora.github.io",
     bgColor: "bg-[#C5E4E7]",
@@ -131,7 +131,7 @@ const projects = [
       />
     ),
     desc: "Hack The Box is a leading gamified cybersecurity upskilling, certification, and talent assessment software platform enabling individuals, businesses, government institutions",
-    tags: ["Astro", "TypeScript", "React", "TailwindCSS"],
+    tags: ["Machines", "Challanges", "Ctfs", "Networks"],
     liveUrl: "https://app.hackthebox.com/profile/228431/",
     codeUrl: "https://github.com/4ghora/4ghora.github.io",
     bgColor: "bg-[#9FD0E3]",
