@@ -208,24 +208,32 @@ const educationInfo = [
   {
     id: 2,
     title: "Network Plus",
-    subTitle: "CompTIA Network+ ce Certification | 2022 - Present",
+    subTitle: "CompTIA Network+ ce Certification | 2022 ~ 2025",
     list: [
-      "Studied Network architecture, Network protocols, Wireless networking, Network security, Network troubleshooting, Network virtualization",
-      "Passed with overall Merit",
-    ],
+      "Studied Network architecture, Network protocols, Wireless networking, Network security, Network troubleshooting, Network virtualization"
+          ],
   },
   {
     id: 3,
-    title: "Azure Fubdamentals",
-    subTitle: "Microsoft Certified: Azure Fundamentals | 2022 - Present",
-    list: ["Got 8.5 rating."],
+    title: "Certified Ethical Hacker V12 (CEH)",
+    subTitle: "EC-Council | 2023 ~ 2026",
+    list: ["Analyze SQL Injection Attack, Cryptography, Denial Of Service Analysis And Mitigation, Evading IDS, Firewalls, and Honeypots, Hacking Mobile Platforms, Hacking Web Applications & Servers, IoT Hacking, Mitigating Malware And Threats, Session Hijacking, Social Engineering, Threat And Vulnerability Analysis, Vulnerability Analysis"],
   },
   {
     id: 4,
+    title: "Azure Fubdamentals",
+    subTitle: "Microsoft Certified: Azure Fundamentals | 2022",
+    list: ["Got 8.5 rating."],
+  },
+  {
+    id: 5,
     title: "Certified In Cybersecurity (CC)",
-    subTitle: "Isc2 CIC Certified | 2023 - Present",
-    list: ["Passed With Merit"],
+    subTitle: "Isc2 CIC Certified | 2023 ~ 2026",
+    list: ["Studied Concepts Like Access Controls, Business Continuity (BC), Disaster Recovery, Incident Response, Network Security, Security Operations, Security Principles"],
   },
 ];
 
 export default AboutSection;
+
+
+
