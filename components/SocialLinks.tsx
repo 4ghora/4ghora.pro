@@ -128,8 +128,12 @@ const navLinks = [
     text: "Projects",
   },
   {
-    url: "#blog",
+    url: "https://blog.4ghora.pro",
     text: "Blog",
+  },
+  {
+    url: "https://terminal.4ghora.pro",
+    text: "Terminal",
   },
   {
     url: "#contact",
