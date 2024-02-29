@@ -96,7 +96,7 @@ const BlogSection: React.FC<Props> = ({ posts }) => {
             ))}
           </Swiper>
           <div className="mt-4 text-center">
-            <Link href="https://blog.4ghora.pro" className="link">
+            <Link href="https://medium.com/@4ghora" className="link">
               Read all blog posts{" "}
               <svg
                 xmlns="http://www.w3.org/2000/svg"
