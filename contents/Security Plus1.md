@@ -14,7 +14,7 @@ featured : true
 author : 4ghora
 coverImageWidth: "1200"
 coverImageHeight: "700"
-coverImage: https://res.cloudinary.com/dimuiaglu/image/upload/v1681842348/SECURITY-PIC_fm0swe.png
+coverImage: https://res.cloudinary.com/doi2vsrjj/image/upload/v1709233642/download_lcusza.png
 coverImageAlt: Security Plus
 language: English
 ---
