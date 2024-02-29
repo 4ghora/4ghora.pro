@@ -12,7 +12,7 @@ excerpt : (ISC)² Certified in Cybersecurity is a foundational cybersecurity cer
 datetime: 2022-07-13T13:08:12.000+00:00
 coverImageWidth: "1200"
 coverImageHeight: "700"
-coverImage: https://res.cloudinary.com/dimuiaglu/image/upload/v1681846456/ISC2_ub5yov.png
+coverImage: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/2310/brand.gif?itok=fdA0VJ2D
 ---
 
 ## Module 1: Understand the Security Concepts of Information Assurance
